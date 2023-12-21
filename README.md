@@ -1,13 +1,9 @@
-# Expo Router Example
+ Create the env file
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+create a ".env" file in your root folder
+login to RapidAPI (https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch) and get the api Key 
 
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
+How to rrun locally
 ```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+npm run start
+```
